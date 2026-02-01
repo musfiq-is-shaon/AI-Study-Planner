@@ -15,51 +15,51 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 🧠 AI-Powered Study Planning
 - **Smart Scheduling** — AI algorithm distributes study time based on subject priority and difficulty
 - **Personalized Timetable** — Generates daily study plans tailored to your exam date
 - **Progress Optimization** — Balances workload across all subjects automatically
 
-### 📚 Subject Management
+###  Subject Management
 - Add subjects with custom priority (1-5)
 - Set difficulty levels for each subject
 - Visual subject cards with gradient color coding
 - Easy subject removal with one click
 
-### 📆 Exam Countdown
+###  Exam Countdown
 - Set your target exam date
 - Visual countdown with days remaining
 - Exam day reminders and notifications
 
-### ⏱️ Pomodoro Timer
+### ⏱ Pomodoro Timer
 - Configurable work sessions (10-60 minutes)
 - Automatic break tracking
 - Session statistics and history
 - Sound notifications
 - Daily progress tracking
 
-### 📊 Progress Tracking
+###  Progress Tracking
 - Visual circular progress indicator
 - Task completion with checkboxes
 - Streak tracking for motivation
 - Smart study tips based on progress
 
-### 🌓 Dark/Light Mode
+###  Dark/Light Mode
 - Toggle between themes with one click
 - Auto-detect system preference
 - Persistent theme storage
 - Smooth animated transitions
 
-### 💾 Data Persistence
+###  Data Persistence
 - All data saved to localStorage
 - Automatic session statistics reset daily
 - Settings preserved between sessions
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18 or higher
@@ -90,7 +90,7 @@ The dev server runs at: `http://localhost:3000/`
 
 ---
 
-## 📱 Deployment to Vercel
+##  Deployment to Vercel
 
 1. Push your code to GitHub:
 ```bash
@@ -113,7 +113,7 @@ npm run build
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 ai-study-planner/
@@ -144,7 +144,7 @@ ai-study-planner/
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Colors
 
@@ -181,7 +181,7 @@ const defaultData = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -194,7 +194,7 @@ const defaultData = {
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — feel free to use this project for personal or commercial purposes.
 
