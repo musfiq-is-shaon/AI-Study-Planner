@@ -17,7 +17,7 @@
 
 ##  Features
 
-### 🧠 AI-Powered Study Planning
+###  AI-Powered Study Planning
 - **Smart Scheduling** — AI algorithm distributes study time based on subject priority and difficulty
 - **Personalized Timetable** — Generates daily study plans tailored to your exam date
 - **Progress Optimization** — Balances workload across all subjects automatically
